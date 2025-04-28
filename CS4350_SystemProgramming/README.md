@@ -1,3 +1,5 @@
+![Texas State University](https://img.shields.io/badge/University-Texas%20State%20University-maroon)
+
 # 🖥️ CS 4350: Unix Systems Programming
 
 This folder contains my assignments and projects for **CS 4350: Unix Systems Programming** at Texas State University.
